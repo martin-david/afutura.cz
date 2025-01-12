@@ -1,0 +1,100 @@
+﻿body {
+    color: #000;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 20px;
+}
+
+h2 {
+    text-align: left;
+    line-height: 24px;
+    margin: 0 0 10px 0;
+}
+
+h3 {
+    margin: 5px 0 5px 0;
+}
+
+#image {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    width: 80%;
+    height: 100%;
+}
+
+#text {
+    background-color: #fff;
+    float: right;
+    width: 20%;
+    height: 100%;
+}
+
+#textContent {
+    padding: 10px;
+    text-align: justify;
+}
+
+.block {
+    margin-top: 12px;
+}
+
+#socialMedia {
+    margin-top: 10px;
+}
+
+#scrollDown {
+	clear: both;
+	position: fixed;
+	bottom: 50px;
+	left: 7%;
+	height: 64px;
+    width: 64px;
+	background-image: url('scrollDown.png');
+	background-size: cover;
+	z-index: 99999999;
+	cursor: pointer;
+}
+
+.icon {
+    height: 32px;
+    width: 32px;
+}
+
+.button:hover {
+   opacity: .9;
+}
+
+.mySection {
+	background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#mySection2 {
+	background-image: url('2.jpg');
+}
+#mySection3 {
+	background-image: url('3.jpg');
+}	
+#mySection4 {
+	background-image: url('4.jpg');
+}
+#mySection5 {
+	background-image: url('5.jpg');
+}
+#mySection6 {
+	background-image: url('6.jpg');
+}
+#mySection7 {
+	background-image: url('7.jpg');
+}
+#mySection8 {
+	background-image: url('8.jpg');
+}
+#mySection9 {
+	background-image: url('9.jpg');
+}
+#mySection10 {
+	background-image: url('10.jpg');
+}
